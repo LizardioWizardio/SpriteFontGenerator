@@ -1,2 +1,2 @@
 # SpriteFontGenerator
-This script create separate images of digits and symbols from the text field in Adobe Photoshop
+This script creates individual images of numbers and symbols from a text field in Adobe Photoshop.
